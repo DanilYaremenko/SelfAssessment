@@ -4,18 +4,18 @@
   - Model: 🎓 known
   - Modeling: 👂 heard
   - Subject domain: 👂 heard
-  - Algorithm: 🖐️ used
+  - Algorithm: e
   - Syntax: 🙋 explained
   - Semantics: 🙋 explained
-  - Abstraction: 🖐️ used
-  - Paradigm: 🖐️ used
-  - Programm: 🖐️ used
+  - Abstraction: e
+  - Paradigm: e
+  - Programm: e
   - Programming paradigm: 🖐️ used
   - Programming language: 🖐️ used
   - Contract: 🎓 known
   - Module: 🎓 known
-  - Library: 🖐️ used
-  - Package: 🖐️ used
+  - Library: e
+  - Package: e
   - Component: 🙋 explained
   - Framework: 🙋 explained
   - Platform: 🖐️ used
@@ -23,23 +23,23 @@
   - Object code: 🙋 explained
   - Machine code: 🙋 explained
   - Microcode: 🖐️ used
-  - Software engineering: 🖐️ used
-  - Decomposition: 🖐️ used
+  - Software engineering: e
+  - Decomposition: e
   - Control flow: 👂 heard
   - Data flow: 🖐️ used
-  - Code reuse: 🖐️ used
+  - Code reuse: e
   - Defensive programming: 🖐️ used
   - Don't repeat yourself (DRY): 🙋 explained
   - KISS principle: 🙋 explained
 - Syntax and concepts
   - Value: 🙋 explained
-  - Identifier: 🖐️ used
+  - Identifier: e
   - Variable: 🙋 explained
   - Constant: 🙋 explained
   - Scalar: 🙋 explained
   - Literal: 🖐️ used
   - Expression: 🙋 explained
-  - Heap: 🎓 known
+  - Heap: u
   - Function: 🙋 explained
   - Procedure: 🙋 explained
   - Method: 🙋 explained
@@ -89,7 +89,7 @@
   - Side effects: 🙋 explained
   - Closure: 🙋 explained
   - Partial application: 🙋 explained
-  - Currying: 🎓 known
+  - Currying: u
   - Higher order: 🖐️ used
   - Recursion: 🙋 explained
   - Tail call optimisation: 🖐️ used
@@ -108,10 +108,10 @@
   - Array: 🙋 explained
   - Structure: 🙋 explained
   - Record: 🎓 known
-  - Enum: 🎓 known
-  - Instance: 🎓 known
-  - Object: 🎓 known
-  - Collection: 🎓 known
+  - Enum: e
+  - Instance: e
+  - Object: e
+  - Collection: u
   - Set: 🖐️ used
   - Hash table: 🖐️ used
   - Linked list: 🙋 explained
@@ -127,41 +127,41 @@
   - Mutable state: 🙋 explained
   - Immutable state: 🙋 explained
   - Serialization: 🎓 known
-  - String parsing: 🎓 known
-  - JSON: 🖐️ used
+  - String parsing: e
+  - JSON: e
   - JSON5: 🎓 known
-  - YAML: 🎓 known
+  - YAML: e
 - Networking
-  - DNS: 🖐️ used
+  - DNS: e
   - CDN: 🎓 known
-  - CORS: 🖐️ used
-  - IPv4: 🖐️ used
-  - IPv6: 🖐️ used
-  - NAT: 🖐️ used
-  - URL: 🖐️ used
+  - CORS: e
+  - IPv4: e
+  - IPv6: e
+  - NAT: e
+  - URL: e
   - URN: 👂 heard
-  - URI: 🖐️ used
+  - URI: e
 - Process and tools
   - Compiler: 🖐️ used
   - Just-in-time compilation: 🎓 known
   - Ahead-of-time compilation: 🎓 known
   - Transpiler: 🎓 known
-  - Linter: 🖐️ used
+  - Linter: e
   - Polyfill: 👂 heard
-  - Interpreter: 👂 heard
+  - Interpreter: e
   - Linker: 👂 heard
   - Dynamic linking: 👂 heard
   - Static linking: 👂 heard
   - Runtime: 👂 heard
-  - Virtual machine: 🖐️ used
+  - Virtual machine: e
   - Register-based VM: 👂 heard
   - Stack-based VM: 👂 heard
   - Containerization: 👂 heard
-  - Debugger: 🖐️ used
+  - Debugger: e
   - Tracing: 👂 heard
   - Garbage collection: 🎓 known
-  - Refactoring: 🖐️ used
-  - Code review: 🖐️ used
+  - Refactoring: e
+  - Code review: e
   - Exception: 🖐️ used
   - Unittesting: 🙋 explained
   - git: 🙋 explained
@@ -171,29 +171,29 @@
   - GCC: 🎓 known
   - LLVM: 👂 heard
 - Antipatterns
-  - Magic numbers: 🖐️ used
-  - Hard code: 🖐️ used
+  - Magic numbers: e
+  - Hard code: e
   - Soft code: 🖐️ used
   - Cryptic code: 🙋 explained
   - Improbability factor: 🖐️ used
   - Accidental complexity: 👂 heard
   - Action at a distance: 👂 heard
-  - Spaghetti: 🖐️ used
+  - Spaghetti: e
   - Silver bullet: 🙋 explained
-  - Not invented here: 🖐️ used
+  - Not invented here: e
   - Dead code: 🙋 explained
   - Unreachable code: 🙋 explained
   - Duplicate code: 🙋 explained
   - Premature optimization: 🖐️ used
   - Micro-optimization: 🖐️ used
-  - Nested loops: 🖐️ used
+  - Nested loops: e
   - Long method/function/procedure: 🖐️ used
-  - Long inheritance: 🖐️ used
+  - Long inheritance: e
   - Large class/file: 🖐️ used
   - Too many parameters: 🖐️ used
   - Pass-through parameters: 🖐️ used
   - Accumulate and fire: 🖐️ used
-  - Use switch/case: 🖐️ used
+  - Use switch/case: e
   - Temporary field: 🖐️ used
   - Handle object as instances and hashes at the same time: 🖐️ used
   - Use fields instead of arguments: 🖐️ used
@@ -214,7 +214,7 @@
   - Ring: 🎓 known
   - Virtual memory: 🎓 known
   - File system: 🎓 known
-  - Linux: 🖐️ used
+  - Linux: e
   - Unix: 🎓 known
   - BSD: 👂 heard
   - MacOS: 🎓 known

@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🖐️ used
+  - Event loop: e
   - `try..catch`: 🙋 explained
-  - Non-blocking: 🖐️ used
-  - Async I/O: 🎓 known
+  - Non-blocking: e
+  - Async I/O: u
   - Thread pool: 🎓 known
   - Pattern Reactor: 👂 heard
   - CAS operations: 👂 heard
@@ -13,32 +13,32 @@
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
   - libuv: 👂 heard
-  - Race conditions: 🎓 known
-  - Dead locks: 🎓 known
+  - Race conditions: u
+  - Dead locks: u
   - Live locks: 🎓 known
-  - Concurrent programming: 🖐️ used
-  - Parallel programming: 🖐️ used
+  - Concurrent programming: e
+  - Parallel programming: e
   - Actor Model: 🎓 known
-  - Thread: 🖐️ used
+  - Thread: e
   - Process: 🎓 known
 - Async contracts
-  - Callbacks: 🖐️ used
+  - Callbacks: e
   - Callback-last-error-first: 🎓 known
-  - Thenable: 👂 heard
+  - Thenable: e
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
   - Future: 🖐️ used
   - Deferred: 🎓 known
   - Sync generator: 👂 heard
-  - Async Generator: 🎓 known
-  - Async Iterator: 🎓 known
-  - Event: 🖐️ used
-  - Coroutine: 👂 heard
-  - Goroutine: 👂 heard
+  - Async Generator: u
+  - Async Iterator: u
+  - Event: e
+  - Coroutine: k
+  - Goroutine: k
   - Signal: 🖐️ used
   - Stream: 🖐️ used
   - Chain of responsibility: 🎓 known
-  - Middleware: 🖐️ used
+  - Middleware: e
   - Locks: 🎓 known
 - Async adapters and utils
   - callbackify: 👂 heard
@@ -48,28 +48,28 @@
   - Async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
-  - Observable/Observer: 🖐️ used
-  - Readable
-  - Writable: 🎓 known
+  - Observable/Observer: e
+  - Readable h
+  - Writable: u
   - Transform: 🎓 known
   - Async Pool: 🎓 known
   - Async Queue: 🎓 known
   - Async Collector: 👂 heard
-  - Semaphore: 🖐️ used
-  - Mutex: 🖐️ used
+  - Semaphore: e
+  - Mutex: e
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
-  - Timers: 🖐️ used
+  - Timers: e
   - `setImmediate`: 👂 heard
   - `nextTick`: 👂 heard
   - AbortController: 👂 heard
   - AbortSignal: 👂 heard
   - Promise unhandled rejection: 👂 heard
   - Promise double resolve: 👂 heard
-  - Atomics: 🖐️ used
+  - Atomics: e
   - High resolution clock: 👂 heard
-  - Callback hell: 🖐️ used
-  - Promise hell: 🖐️ used
+  - Callback hell: e
+  - Promise hell: e
   - ref() and unref(): 👂 heard
   - Error handling in async code: 🙋 explained
   - Better stack traces with return await: 🖐️ used
@@ -77,9 +77,9 @@
   - AsyncLocalStorage: 🖐️ used
   - AsyncResource: 👂 heard
 - Techniques
-  - Async.js library: 👂 heard
+  - Async.js library: k
   - RxJS library: 🖐️ used
-  - Promise.all: 🎓 known
+  - Promise.all: u
   - Promise.allSettled: 👂 heard
   - Promise.race: 🎓 known
   - Promise.any: 🎓 known

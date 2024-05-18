@@ -5,59 +5,59 @@
   - `Function`: 🙋 explained
   - `Boolean`: 🙋 explained
   - `Number`: 🙋 explained
-  - `BigInt`: 🎓 known
+  - `BigInt`: e
   - `String`: 🙋 explained
-  - `Symbol`: 🎓 known
-  - `Infinity`: 🎓 known
-  - `NaN`: 🖐️ used
-  - `undefined`: 🖐️ used
-  - `null`: 🖐️ used
+  - `Symbol`: u
+  - `Infinity`: u
+  - `NaN`: e
+  - `undefined`: e
+  - `null`: e
   - `this`: 🙋 explained
   - `instanceof`: 🙋 explained
   - `...spread`: 🙋 explained
   - `...rest`: 🙋 explained
   - `typeof`: 🙋 explained
   - Destructuring: 🙋 explained
-  - Generators: 🎓 known
-  - Iterators: 🖐️ used
+  - Generators: e
+  - Iterators: e
   - Async generator: 🎓 known
   - Async iterator: 🎓 known
-  - Chaining: 🖐️ used
-  - Optional chaining: 🖐️ used
+  - Chaining: e
+  - Optional chaining: e
   - IIFE: 🎓 known
   - Async IIFE: 👂 heard
   - `global`: 🎓 known
   - `globalThis`: 👂 heard
-  - `window`: 🎓 known
+  - `window`: u
   - Getters and setters: 🙋 explained
-  - `__proto__`: 🖐️ used
-  - `prototype`: 🖐️ used
+  - `__proto__`: e
+  - `prototype`: e
   - Equality operators: 🙋 explained
   - Logical operators: 🙋 explained
   - Logical Assignment: 🖐️ used
-  - Bitwise operators: 🎓 known
+  - Bitwise operators: u
   - Ternary operator: 🙋 explained
   - `void`: 🙋 explained
-  - `yield`: 🎓 known
-  - `await`: 🖐️ used
+  - `yield`: u
+  - `await`: e
   - Template literal: 🎓 known
-  - Strict mode: 🖐️ used
+  - Strict mode: e
   - Hoisting: 🎓 known
-  - `delete`: 🖐️ used
-  - `in`: 🖐️ used
-  - `super`: 🖐️ used
+  - `delete`: e
+  - `in`: e
+  - `super`: e
   - `eval`: 🎓 known
-  - `static`: 🖐️ used
-  - `Number.parseInt`: 🖐️ used
-  - `Number.parseFloat`: 🖐️ used
+  - `static`: e
+  - `Number.parseInt`: e
+  - `Number.parseFloat`: e
   - Property descriptors: 🖐️ used
   - Sealing properties: 🎓 known
   - Freezing properties: 👂 heard
   - Computed properties: 👂 heard
-  - Instance class fields: 🖐️ used
-  - Static class fields: 🖐️ used
-  - Private class fields: 🖐️ used
-  - Private class methods: 🖐️ used
+  - Instance class fields: e
+  - Static class fields: e
+  - Private class fields: e
+  - Private class methods: e
 - Statements
   - `if`: 🙋 explained
   - `while`: 🙋 explained
@@ -77,7 +77,7 @@
   - `class`: 🙋 explained
   - `extends`: 🙋 explained
   - `with`: 🎓 known
-  - `new`: 🖐️ used
+  - `new`: e
 - Functions
   - Arrow function: 🙋 explained
   - Async function: 🙋 explained
@@ -85,32 +85,32 @@
   - Function expression: 🙋 explained
   - Default parameters: 🙋 explained
   - Functional object: 🙋 explained
-  - `Function.prototype.call`: 🖐️ used
-  - `Function.prototype.bind`: 🖐️ used
+  - `Function.prototype.call`: e
+  - `Function.prototype.bind`: e
   - `Function.prototype.apply`: 🖐️ used
   - `return`: 🙋 explained
 - Data structures
   - `Array`: 🙋 explained
-  - `Map`: 🎓 known
-  - `Set`: 🖐️ used
-  - `WeakMap`: 👂 heard
-  - `WeakSet`: 👂 heard
-  - Typed arrays: 🖐️ used
-  - Mixins: 🎓 known
+  - `Map`: e
+  - `Set`: e
+  - `WeakMap`: k
+  - `WeakSet`: k
+  - Typed arrays: e
+  - Mixins: u
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`: 👂 heard
   - `RegExp`: 🙋 explained
-  - `Date`: 🖐️ used
+  - `Date`: e
   - `Math`: 🙋 explained
   - `Reflect`: 🖐️ used
-  - `Error`: 🖐️ used
-  - `Atomics`: 🖐️ used
+  - `Error`: e
+  - `Atomics`: e
   - `JSON`: 🙋 explained
   - `WeakRef`: 🖐️ used
   - `FinalizationRegistry`: 👂 heard
   - `Intl`: 👂 heard
-  - `Promise`: 🖐️ used
+  - `Promise`: e
   - `console`: 🙋 explained
   - Timers: 🙋 explained
 - Infrastructure

@@ -9,46 +9,46 @@
   - GoF patterns: 👂 heard
   - CQS: 🙋 explained
   - Leaking abstractions: 🎓 known
-  - Multiparadigm code: 🎓 known
+  - Multiparadigm code: u
   - Contract programming: 🎓 known
   - Platform-agnostic: 🖐️ used
   - Transport-agnostic: 🎓 known
   - Framework-agnostic: 🎓 known
-  - Code coverage: 🖐️ used
+  - Code coverage: e
   - Cohesion: 🖐️ used
   - Coupling: 🎓 known
   - Cyclomatic complexity: 🎓 known
   - Reliability: 🎓 known
-  - Quality: 🖐️ used
-  - Availability: 🖐️ used
-  - Flexibility: 🖐️ used
+  - Quality: e
+  - Availability: e
+  - Flexibility: e
   - Law of Demeter (LoD): 🖐️ used
 - Application architecture
-  - Isolation between layer: 🖐️ used
+  - Isolation between layer: e
   - Domain-specific language (DSL): 👂 heard
   - System vs applied code: 🎓 known
   - Multilayer approach: 🎓 known
   - Hexagonal architecture: 👂 heard
   - Separation of concerns (SoC): 👂 heard
-  - Metaprogramming: 🎓 known
+  - Metaprogramming: u
   - Inversion of control (IoC): 🎓 known
   - Dependency injection (DI): 🙋 explained
-  - Clean architecture: 🖐️ used
+  - Clean architecture: e
   - Domain-driven design (DDD): 🎓 known
   - Pub/sub: 🖐️ used
-  - Message brocker: 🖐️ used
+  - Message brocker: e
   - Agent: 🎓 known
   - Service locator: 👂 heard
-  - Message Queue (MQ): 🖐️ used
-  - CQRS: 🎓 known
+  - Message Queue (MQ): e
+  - CQRS: u
   - Event sourcing: 🎓 known
   - E-R data modeling: 🎓 known
-  - Entity-relationship diagram: 🎓 known
+  - Entity-relationship diagram: e
   - IDEF1X: 👂 heard
-  - UML: 🖐️ used
+  - UML: e
   - Work breakdown structure: 👂 heard
-  - Budget estimation: 🎓 known
-  - Distributed systems: 🖐️ used
+  - Budget estimation: u
+  - Distributed systems: e
   - High-intensive computing: 👂 heard
   - Load balancing: 🙋 explained
   - Gateways: 🙋 explained
