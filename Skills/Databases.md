@@ -1,18 +1,18 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: e
+  - Data types: 🙋 explained
   - Performance tuning: 🎓 known
   - Migrations: 🙋 explained
   - Schema versioning: 🖐️ used
-  - Backup and recovery: u
+  - Backup and recovery: 🖐️ used
   - Database scalability: 🖐️ used
   - Relational databases: 🖐️ used
   - Key-value store: 🙋 explained
   - Tuple store: 🎓 known
-  - Graph databases: k
-  - Object databases: k
-  - Column databases: k
+  - Graph databases: 🎓 known
+  - Object databases: 🎓 known
+  - Column databases: 🎓 known
   - Navigational databases: 👂 heard
   - Hierarchical databases: 👂 heard
   - In-memory databases: 🖐️ used
@@ -45,16 +45,16 @@
   - `ORDER BY`: 🙋 explained
   - `GROUP BY`: 🙋 explained
   - `HAVING`: 🎓 known
-  - `EXISTS`: e
+  - `EXISTS`: 🙋 explained
   - `JOIN`: 🙋 explained
   - `INNER JOIN`: 🙋 explained
   - `LEFT JOIN`: 🙋 explained
   - `RIGHT JOIN`: 🙋 explained
-  - `UNION`: u
-  - `DISTINCT`: e
-  - `WHERE`: e
-  - `LIKE`: e
-  - `IN`: e
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🙋 explained
+  - `WHERE`: 🙋 explained
+  - `LIKE`: 🙋 explained
+  - `IN`: 🙋 explained
   - `BETWEEN`: 🖐️ used
   - `CREATE TABLE`: 🙋 explained
   - `ALTER TABLE`: 🙋 explained
@@ -70,13 +70,13 @@
   - `DENY`: 👂 heard
   - `EXPLAIN`: 👂 heard
 - Engines
-  - PostgreSQL: e
+  - PostgreSQL: 🙋 explained
   - Oracle: 🎓 known
   - MySQL: 🖐️ used
   - MariaDB: 🎓 known
   - MS SQL Server: 🎓 known
-  - Redis: e
-  - Rabbit: e
+  - Redis: 🙋 explained
+  - Rabbit: 🙋 explained
   - MongoDB: 🖐️ used
   - Memcached: 🎓 known
   - Riak: 🎓 known
@@ -87,7 +87,7 @@
 - Data engineering
   - Data warehousing: 👂 heard
   - Business intelligence: 👂 heard
-  - Big data: k
+  - Big data: 🎓 known
   - Data analysis: 🖐️ used
   - AI tools: 🖐️ used
   - Cloud databases: 🎓 known

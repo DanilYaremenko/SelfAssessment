@@ -4,18 +4,18 @@
   - Model: 🎓 known
   - Modeling: 👂 heard
   - Subject domain: 👂 heard
-  - Algorithm: e
+  - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
   - Semantics: 🙋 explained
-  - Abstraction: e
-  - Paradigm: e
-  - Programm: e
+  - Abstraction: 🙋 explained
+  - Paradigm: 🙋 explained
+  - Programm: 🙋 explained
   - Programming paradigm: 🖐️ used
   - Programming language: 🖐️ used
   - Contract: 🎓 known
   - Module: 🎓 known
-  - Library: e
-  - Package: e
+  - Library: 🙋 explained
+  - Package: 🙋 explained
   - Component: 🙋 explained
   - Framework: 🙋 explained
   - Platform: 🖐️ used
@@ -23,23 +23,23 @@
   - Object code: 🙋 explained
   - Machine code: 🙋 explained
   - Microcode: 🖐️ used
-  - Software engineering: e
-  - Decomposition: e
+  - Software engineering: 🙋 explained
+  - Decomposition: 🙋 explained
   - Control flow: 👂 heard
   - Data flow: 🖐️ used
-  - Code reuse: e
+  - Code reuse: 🙋 explained
   - Defensive programming: 🖐️ used
   - Don't repeat yourself (DRY): 🙋 explained
   - KISS principle: 🙋 explained
 - Syntax and concepts
   - Value: 🙋 explained
-  - Identifier: e
+  - Identifier: 🙋 explained
   - Variable: 🙋 explained
   - Constant: 🙋 explained
   - Scalar: 🙋 explained
   - Literal: 🖐️ used
   - Expression: 🙋 explained
-  - Heap: u
+  - Heap: 🖐️ used
   - Function: 🙋 explained
   - Procedure: 🙋 explained
   - Method: 🙋 explained
@@ -89,7 +89,7 @@
   - Side effects: 🙋 explained
   - Closure: 🙋 explained
   - Partial application: 🙋 explained
-  - Currying: u
+  - Currying: 🖐️ used
   - Higher order: 🖐️ used
   - Recursion: 🙋 explained
   - Tail call optimisation: 🖐️ used
@@ -108,10 +108,10 @@
   - Array: 🙋 explained
   - Structure: 🙋 explained
   - Record: 🎓 known
-  - Enum: e
-  - Instance: e
-  - Object: e
-  - Collection: u
+  - Enum: 🙋 explained
+  - Instance: 🙋 explained
+  - Object: 🙋 explained
+  - Collection: 🖐️ used
   - Set: 🖐️ used
   - Hash table: 🖐️ used
   - Linked list: 🙋 explained
@@ -127,41 +127,41 @@
   - Mutable state: 🙋 explained
   - Immutable state: 🙋 explained
   - Serialization: 🎓 known
-  - String parsing: e
-  - JSON: e
+  - String parsing: 🙋 explained
+  - JSON: 🙋 explained
   - JSON5: 🎓 known
-  - YAML: e
+  - YAML: 🙋 explained
 - Networking
-  - DNS: e
+  - DNS: 🙋 explained
   - CDN: 🎓 known
-  - CORS: e
-  - IPv4: e
-  - IPv6: e
-  - NAT: e
-  - URL: e
+  - CORS: 🙋 explained
+  - IPv4: 🙋 explained
+  - IPv6: 🙋 explained
+  - NAT: 🙋 explained
+  - URL: 🙋 explained
   - URN: 👂 heard
-  - URI: e
+  - URI: 🙋 explained
 - Process and tools
   - Compiler: 🖐️ used
   - Just-in-time compilation: 🎓 known
   - Ahead-of-time compilation: 🎓 known
   - Transpiler: 🎓 known
-  - Linter: e
+  - Linter: 🙋 explained
   - Polyfill: 👂 heard
-  - Interpreter: e
+  - Interpreter: 🙋 explained
   - Linker: 👂 heard
   - Dynamic linking: 👂 heard
   - Static linking: 👂 heard
   - Runtime: 👂 heard
-  - Virtual machine: e
+  - Virtual machine: 🙋 explained
   - Register-based VM: 👂 heard
   - Stack-based VM: 👂 heard
   - Containerization: 👂 heard
-  - Debugger: e
+  - Debugger: 🙋 explained
   - Tracing: 👂 heard
   - Garbage collection: 🎓 known
-  - Refactoring: e
-  - Code review: e
+  - Refactoring: 🙋 explained
+  - Code review: 🙋 explained
   - Exception: 🖐️ used
   - Unittesting: 🙋 explained
   - git: 🙋 explained
@@ -171,29 +171,29 @@
   - GCC: 🎓 known
   - LLVM: 👂 heard
 - Antipatterns
-  - Magic numbers: e
-  - Hard code: e
+  - Magic numbers: 🙋 explained
+  - Hard code: 🙋 explained
   - Soft code: 🖐️ used
   - Cryptic code: 🙋 explained
   - Improbability factor: 🖐️ used
   - Accidental complexity: 👂 heard
   - Action at a distance: 👂 heard
-  - Spaghetti: e
+  - Spaghetti: 🙋 explained
   - Silver bullet: 🙋 explained
-  - Not invented here: e
+  - Not invented here: 🙋 explained
   - Dead code: 🙋 explained
   - Unreachable code: 🙋 explained
   - Duplicate code: 🙋 explained
   - Premature optimization: 🖐️ used
   - Micro-optimization: 🖐️ used
-  - Nested loops: e
+  - Nested loops: 🙋 explained
   - Long method/function/procedure: 🖐️ used
-  - Long inheritance: e
+  - Long inheritance: 🙋 explained
   - Large class/file: 🖐️ used
   - Too many parameters: 🖐️ used
   - Pass-through parameters: 🖐️ used
   - Accumulate and fire: 🖐️ used
-  - Use switch/case: e
+  - Use switch/case: 🙋 explained
   - Temporary field: 🖐️ used
   - Handle object as instances and hashes at the same time: 🖐️ used
   - Use fields instead of arguments: 🖐️ used
@@ -214,7 +214,7 @@
   - Ring: 🎓 known
   - Virtual memory: 🎓 known
   - File system: 🎓 known
-  - Linux: e
+  - Linux: 🙋 explained
   - Unix: 🎓 known
   - BSD: 👂 heard
   - MacOS: 🎓 known
