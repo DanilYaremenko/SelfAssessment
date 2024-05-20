@@ -1,22 +1,22 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 known
-  - Imperative programming: 👂 heard
-  - Structured programming: 👂 heard
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
   - Non-structured programming: 🎓 known
-  - Functional programming: 🎓 known
+  - Functional programming: 🖐️ used
   - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🖐️ used
   - Generic programming: 🎓 known
-  - Concurrent computing: 👂 heard
+  - Concurrent computing: 🎓 known
   - Asynchronous programming: 🙋 explained
   - Parallel programming: 🙋 explained
-  - Reactive programming: 👂 heard
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
-  - Domain-specific languages: 👂 heard
+  - Domain-specific languages: 🎓 known
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 🎓 known
   - Actor model: 👂 heard

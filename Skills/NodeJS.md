@@ -1,12 +1,12 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 🎓 known
+  - Strong and weak sides of node.js: 🖐️ used
   - Stateful and stateless servers: 🎓 known
   - Nonblocking I/O and blocking code: 🎓 known
-  - Event loop phases: 🎓 known
-  - Event loop microtasks and macrotasks: 🎓 known
-  - Garbage collection: 🎓 known
+  - Event loop phases: 🖐️ used
+  - Event loop microtasks and macrotasks: 🖐️ used
+  - Garbage collection: 🖐️ used
   - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
   - Interactive applications (close to real-time): 🎓 known
@@ -17,7 +17,7 @@
   - Caching in CJS and ESM: 🖐️ used
   - Modules as singletons: 🎓 known
   - Contexts and scripts module `node:vm`: 🎓 known
-  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Dependencies: `npm`, `node_modules`: 🙋 explained
   - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model: 🖐️ used
   - Isolation with modularity: 🙋 explained
@@ -36,10 +36,10 @@
   - Streams API: 🖐️ used
   - Web Streams API: 🎓 known
   - Crypto API: 👂 heard
-  - Password hashing with crypto.scrypt: 🎓 known
+  - Password hashing with crypto.scrypt: 🖐️ used
   - Web Crypto API: 👂 heard
   - File system API (sync and async): 🎓 known
-  - Copy folder recursively: 👂 heard
+  - Copy folder recursively: 🎓 known
   - Worker threads: 👂 heard
   - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici: 🖐️ used
@@ -65,18 +65,18 @@
   - SNI callback: 👂 heard
   - SSL certificates: 👂 heard
   - Protocol agnostic approach: 👂 heard
-  - Fetch API: 🖐️ used
+  - Fetch API: 🙋 explained
   - IncomingMessage: 👂 heard
-  - HTTP(S): 🖐️ used
-  - TCP/SSL: 🖐️ used
-  - UDP: 🎓 known
-  - TLS: 🎓 known
-  - Websocket: 🎓 known
+  - HTTP(S): 🙋 explained
+  - TCP/SSL: 🙋 explained
+  - UDP: 🖐️ used
+  - TLS: 🖐️ used
+  - Websocket: 🖐️ used
   - SSE: 👂 heard
   - HTTP/3 (QUIC): 👂 heard
   - Long polling: 👂 heard
-  - REST: 🖐️ used
-  - RPC: 👂 heard
+  - REST: 🙋 explained
+  - RPC: 🎓 known
   - Routing: 🙋 explained
   - DoS: 🎓 known
   - DDoS: 🎓 known
@@ -84,25 +84,25 @@
   - Path traversal: 👂 heard
   - CSRF: 🎓 known
   - DNS: 🎓 known
-  - SQL injection: 🎓 known
+  - SQL injection: 🙋 explained
   - noDelay: 🎓 known
   - keep-alive: 👂 heard
   - IP sticky sessions: 👂 heard
 - Technique and tools
-  - Native test runner: 🎓 known
-  - Logging: 🖐️ used
-  - Application configuring: 🎓 known
-  - Testing: 🖐️ used
-  - CI/CD: 🖐️ used
+  - Native test runner: 🖐️ used
+  - Logging: 🙋 explained
+  - Application configuring: 🙋 explained
+  - Testing: 🙋 explained
+  - CI/CD: 🙋 explained
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 👂 heard
   - Back pressure: 👂 heard
   - Buffer: 👂 heard
-  - Console: 🖐️ used
+  - Console: 🙋 explained
   - Inspector: 🎓 known
 - Data access
-  - Data access layer: 🎓 known
+  - Data access layer: 🖐️ used
   - Repository: 🖐️ used
   - Active record: 🎓 known
   - Query builder: 🖐️ used
@@ -110,18 +110,18 @@
   - CRUD: 🙋 explained
   - DTO: 🙋 explained
 - Error handling and debugging
-  - `Error`: 🖐️ used
-  - `error.cause`: 🖐️ used
-  - `error.code`: 🖐️ used
-  - `error.message`: 🖐️ used
-  - `error.stack`: 🖐️ used
-  - `Error.captureStackTrace`: 👂 heard
+  - `Error`: 🙋 explained
+  - `error.cause`: 🙋 explained
+  - `error.code`: 🙋 explained
+  - `error.message`: 🙋 explained
+  - `error.stack`: 🙋 explained
+  - `Error.captureStackTrace`: 🎓 known
   - How to avoid mixins: 👂 heard
-  - Uncaught exceptions: 🖐️ used
+  - Uncaught exceptions: 🙋 explained
   - Heap dump: 👂 heard
-  - Debugging tools: 🖐️ used
+  - Debugging tools: 🙋 explained
   - Flame graph: 🖐️ used
-  - Memory leaks: 🎓 known
+  - Memory leaks: 🖐️ used
   - Resource leaks: 🎓 known
   - Data race: 🙋 explained
 - Integrations and bindings
